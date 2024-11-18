@@ -8,10 +8,10 @@
 
 
 ### About
-GlobalwideGames is a org ran by posh the creator of Global our goal is to allow you to play games and end censorship
+GlobalwideGames is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience.
 ### Projects
-<details>
-<summary>Overview</summary>
+<ul>
+  <li><a href="https://github.com/GlobeTheDev">GlobeTheDev</a></li>
+  <li><a href="https://github.com/GlobalwideGames/GlobalwideGames.github.io">GlobalwideGames</a></li>
+</ul>
 
-#### Active
-- [Global](https://github.com/GlobalwideGames/Global)
