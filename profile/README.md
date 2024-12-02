@@ -4,7 +4,7 @@
 </kbd>
 </p>
 
-<h1 align="center">CarbonNetwork</h1>
+<h1 align="center">GlobalwideGames</h1>
 
 
 ### About
